@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RpgDataEngine", "src\RpgDataEngine\RpgDataEngine.csproj", "{192F9513-3572-4C61-B2E9-5ADD93CE347B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceEngine.Tests", "DiceEngine.Tests\DiceEngine.Tests.csproj", "{67A82FF9-FA57-4580-9B44-13CEA8796BD2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceEngine.Tests", "tests\DiceEngine.Tests\DiceEngine.Tests.csproj", "{67A82FF9-FA57-4580-9B44-13CEA8796BD2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
