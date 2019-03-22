@@ -10,6 +10,6 @@ namespace RpgDataEngine.Models.Objects
 
         double Value { get; set; }
 
-        bool IsMagicalFocus { get; set; }
+        bool Enchanted { get; set; }
     }
 }

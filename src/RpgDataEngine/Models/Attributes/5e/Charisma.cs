@@ -1,4 +1,6 @@
-namespace RpgDataEngine.Models.Attributes
+using RpgDataEngine.Models.Attributes;
+
+namespace RpgDataEngine.Models.FifthEdition.Attributes
 {
     public class Charisma : IAttribute
     {

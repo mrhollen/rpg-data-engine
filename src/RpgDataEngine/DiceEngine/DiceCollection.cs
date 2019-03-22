@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 
 namespace RpgDataEngine.DiceEngine
 {
@@ -16,17 +17,30 @@ namespace RpgDataEngine.DiceEngine
 
         public int DiceFaceCount { get; set; }
 
-        public int Roll()
+        public int RollAll()
         {
             var total = 0;
             var random = new Random();
 
             for(int i = 0; i < DiceCount; i++)
             {
-                total += random.Next(1, DiceFaceCount + 1);
+                total += Die.Roll(DiceFaceCount, random);
             }
 
             return total;
+        }
+
+        public IEnumerable<int> RollAllIndividual()
+        {
+            var rolls = new int[DiceCount];
+            var random = new Random();
+
+            for(int i = 0; i < DiceCount; i++)
+            {
+                rolls[i] = Die.Roll(DiceFaceCount, random);
+            }
+
+            return rolls;
         }
     }
 }
