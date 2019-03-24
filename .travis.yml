@@ -1,7 +1,7 @@
 language: csharp
 solution: rpg-data-engine.sln
 mono: none
-dotnet: 2.1.1
+dotnet: 2.1
 install:
   - dotnet restore rpg-data-engine.sln
   - dotnet install xunit.runners -Version 1.9.2 -OutputDirectory testrunner
