@@ -1,0 +1,17 @@
+/home/hollen/Documents/code/personal/rpg-data-engine/tests/RpgDataEngine.Tests/obj/Debug/netcoreapp2.1/RpgDataEngine.Tests.csprojAssemblyReference.cache
+/home/hollen/Documents/code/personal/rpg-data-engine/tests/RpgDataEngine.Tests/obj/Debug/netcoreapp2.1/RpgDataEngine.Tests.csproj.CoreCompileInputs.cache
+/home/hollen/Documents/code/personal/rpg-data-engine/tests/RpgDataEngine.Tests/obj/Debug/netcoreapp2.1/RpgDataEngine.Tests.AssemblyInfoInputs.cache
+/home/hollen/Documents/code/personal/rpg-data-engine/tests/RpgDataEngine.Tests/obj/Debug/netcoreapp2.1/RpgDataEngine.Tests.AssemblyInfo.cs
+/home/hollen/Documents/code/personal/rpg-data-engine/tests/RpgDataEngine.Tests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/hollen/Documents/code/personal/rpg-data-engine/tests/RpgDataEngine.Tests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/home/hollen/Documents/code/personal/rpg-data-engine/tests/RpgDataEngine.Tests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/home/hollen/Documents/code/personal/rpg-data-engine/tests/RpgDataEngine.Tests/bin/Debug/netcoreapp2.1/RpgDataEngine.Tests.deps.json
+/home/hollen/Documents/code/personal/rpg-data-engine/tests/RpgDataEngine.Tests/bin/Debug/netcoreapp2.1/RpgDataEngine.Tests.runtimeconfig.json
+/home/hollen/Documents/code/personal/rpg-data-engine/tests/RpgDataEngine.Tests/bin/Debug/netcoreapp2.1/RpgDataEngine.Tests.runtimeconfig.dev.json
+/home/hollen/Documents/code/personal/rpg-data-engine/tests/RpgDataEngine.Tests/bin/Debug/netcoreapp2.1/RpgDataEngine.Tests.dll
+/home/hollen/Documents/code/personal/rpg-data-engine/tests/RpgDataEngine.Tests/bin/Debug/netcoreapp2.1/RpgDataEngine.Tests.pdb
+/home/hollen/Documents/code/personal/rpg-data-engine/tests/RpgDataEngine.Tests/bin/Debug/netcoreapp2.1/RpgDataEngine.dll
+/home/hollen/Documents/code/personal/rpg-data-engine/tests/RpgDataEngine.Tests/bin/Debug/netcoreapp2.1/RpgDataEngine.pdb
+/home/hollen/Documents/code/personal/rpg-data-engine/tests/RpgDataEngine.Tests/obj/Debug/netcoreapp2.1/RpgDataEngine.Tests.csproj.CopyComplete
+/home/hollen/Documents/code/personal/rpg-data-engine/tests/RpgDataEngine.Tests/obj/Debug/netcoreapp2.1/RpgDataEngine.Tests.dll
+/home/hollen/Documents/code/personal/rpg-data-engine/tests/RpgDataEngine.Tests/obj/Debug/netcoreapp2.1/RpgDataEngine.Tests.pdb
