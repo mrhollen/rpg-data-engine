@@ -3,6 +3,6 @@ solution: rpg-data-engine.sln
 mono: none
 dotnet: 2.1
 install:
-  - dotnet restore rpg-data-engine.sln
+  - dotnet restore --no-cache rpg-data-engine.sln
 script:
   - dotnet test rpg-data-engine.sln
