@@ -17,7 +17,7 @@ namespace DiceEngine.Tests
             var diceCollection = new DiceCollection(diceCount, diceFaceCount);
 
             // Test
-            var roll = diceCollection.Roll();
+            var roll = diceCollection.RollAll();
 
             // Assert
             Assert.InRange(roll, diceCount, diceCount * diceFaceCount);
